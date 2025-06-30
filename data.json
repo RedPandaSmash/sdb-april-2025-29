@@ -7,10 +7,10 @@
       "createdAt": "2025-06-20T10:30:00"
     },
     {
-      "blogTitle": "The Art of Minimalist Design",
-      "blogContent": "Less is more when it comes to effective design. Minimalist design focuses on essential elements, clean layouts, and purposeful whitespace. This approach improves user experience by reducing cognitive load and highlighting what truly matters.",
-      "blogAuthor": "Mike Chen",
-      "createdAt": "2025-06-22T14:15:00"
+      "blogTitle": "tstttl",
+      "blogContent": "tstcntnt",
+      "blogAuthor": "tstathr",
+      "createdAt": "sometime"
     },
     {
       "blogTitle": "Coffee Shop Chronicles",
@@ -23,6 +23,18 @@
       "blogContent": "new content",
       "blogAuthor": "new author",
       "createdAt": "2025-06-26T20:39"
+    },
+    {
+      "blogTitle": "potato",
+      "blogContent": "topato",
+      "blogAuthor": "snackywacky",
+      "createdAt": "today"
+    },
+    {
+      "blogTitle": "asdf",
+      "blogContent": "asdfasdf.",
+      "blogAuthor": "asdf",
+      "createdAt": "asdfasdfasdfasdf"
     }
   ]
 }
